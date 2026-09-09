@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "pl.stanleyrepair.halloween3",
+      "sha256_cert_fingerprints": [
+        "DA:D0:98:40:94:54:28:80:55:C7:9B:D2:58:66:ED:2D:9D:BD:37:74:87:24:A7:E4:4E:3C:EB:84:6C:E6:5F:86"
+      ]
+    }
+  }
+]
